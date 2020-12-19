@@ -1,1 +1,2 @@
 # LibraryManagement
+A system that is used to maintain the record of the library. It contains records like the number of available books in the library, the number of books issued or returned or renewing a book or late fine charge, etc. It helps to maintain a database that is useful to enter new books & record books borrowed by the members, with the respective submission dates. Moreover, it also reduces the manual record burden of the librarian.
